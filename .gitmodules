@@ -1,3 +1,6 @@
 [submodule "ses-001"]
 	path = ses-001
 	url = ./ses-001
+[submodule "ses-002"]
+	path = ses-002
+	url = ./ses-002
